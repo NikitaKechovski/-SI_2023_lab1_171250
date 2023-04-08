@@ -1,0 +1,61 @@
+Lenovo@DESKTOP-4AVMKR7 MINGW64 ~/SI_2023_lab1_171250 (master)
+$ git log
+commit 77ec774ef2b8089d6d061a3975c30196294e40a8 (HEAD -> master, origin/master, bug3)
+Author: NikitaKechovski <nikita@embedsocial.com>
+Date:   Fri Apr 7 21:26:49 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit ea8214f384b6fa33e77687754f67c507a2cc495a
+Merge: 5473bf4 3b18fe2
+Author: NikitaKechovski <nikita@embedsocial.com>
+Date:   Sat Apr 8 21:48:12 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 3b18fe2eaeab0cc5375ea172bf76699b9cdf05e0 (origin/bug2, bug2)
+Author: NikitaKechovski <nikita@embedsocial.com>
+Date:   Fri Apr 7 21:24:31 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 5473bf4a7d990e4af3255c0df4f79d6204068ef1 (origin/bug1, bug1)
+Author: NikitaKechovski <nikita@embedsocial.com>
+Date:   Fri Apr 7 21:21:14 2023 +0200
+:...skipping...
+commit 77ec774ef2b8089d6d061a3975c30196294e40a8 (HEAD -> master, origin/master, bug3)
+Author: NikitaKechovski <nikita@embedsocial.com>
+Date:   Fri Apr 7 21:26:49 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit ea8214f384b6fa33e77687754f67c507a2cc495a
+Merge: 5473bf4 3b18fe2
+Author: NikitaKechovski <nikita@embedsocial.com>
+Date:   Sat Apr 8 21:48:12 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 3b18fe2eaeab0cc5375ea172bf76699b9cdf05e0 (origin/bug2, bug2)
+Author: NikitaKechovski <nikita@embedsocial.com>
+Date:   Fri Apr 7 21:24:31 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 5473bf4a7d990e4af3255c0df4f79d6204068ef1 (origin/bug1, bug1)
+Author: NikitaKechovski <nikita@embedsocial.com>
+Date:   Fri Apr 7 21:21:14 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 66bcaf33007c516b69d8e6c67df4361e0f63b283
+Author: NikitaKechovski <nikita@embedsocial.com>
+Date:   Fri Apr 7 19:27:41 2023 +0200
+
+    Add java class
+
+commit 5a81ee3e314b98330a0c4b2f252320453489eae5
+Author: NikitaKechovski <nikita@embedsocial.com>
+Date:   Fri Apr 7 19:03:06 2023 +0200
+
+    initial commit
